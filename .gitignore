@@ -5,3 +5,4 @@ env/
 # Ignore specific file extensions in the root directory
 *.log
 *.tmp
+*.pyc
