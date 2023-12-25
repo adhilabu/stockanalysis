@@ -1,0 +1,6 @@
+# Ignore files in the env folder
+env/
+
+# Ignore specific file extensions in the root directory
+*.log
+*.tmp
