@@ -2,6 +2,7 @@
 */env/*
 env
 env.*
+launch.json
 
 # Ignore specific file extensions in the root directory
 *.log
