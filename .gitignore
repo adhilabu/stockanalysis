@@ -1,5 +1,5 @@
 # Ignore files in the env folder
-env/
+*/env/*
 
 
 # Ignore specific file extensions in the root directory
